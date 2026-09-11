@@ -1,5 +1,6 @@
 # LinkedIn-with-Markdown
 Option A: Partner up with a classmate. 
+
 Option B: Work solo
 
 Collect data that could be used to create a LinkedIn page. 
